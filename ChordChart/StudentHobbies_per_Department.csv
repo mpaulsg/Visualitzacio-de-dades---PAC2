@@ -1,0 +1,33 @@
+Categoria A,Categoria B,count
+Commerce,Cinema,27
+Commerce,Reading books,8
+Commerce,Sports,21
+Commerce,Video Games,4
+Computer science,Cinema,40
+Computer science,Reading books,21
+Computer science,Sports,46
+Computer science,Video Games,25
+Finance,Cinema,2
+Finance,Reading books,5
+Finance,Sports,7
+Finance,Video Games,1
+Information technology,Cinema,9
+Information technology,Reading books,2
+Information technology,Sports,11
+Information technology,Video Games,6
+Cinema,Commerce,27
+Reading books,Commerce,8
+Sports,Commerce,21
+Video Games,Commerce,4
+Cinema,Computer science,40
+Reading books,Computer science,21
+Sports,Computer science,46
+Video Games,Computer science,25
+Cinema,Finance,2
+Reading books,Finance,5
+Sports,Finance,7
+Video Games,Finance,1
+Cinema,Information technology,9
+Reading books,Information technology,2
+Sports,Information technology,11
+Video Games,Information technology,6
