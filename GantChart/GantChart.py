@@ -23,7 +23,7 @@ def generar_diagrama_gantt(df_paisos_anys):
         x_start='First',
         x_end='Last',
         y='Country',
-        title='Intervals en els què els països han tingut equips guanyadors de la Champions League',
+        title='Intervals en els que els països han tingut equips guanyadors de la Champions League',
         labels={'Country': 'País', 'First': 'Primera Temporada', 'Last': 'Última Temporada'}
     )
     
@@ -37,5 +37,6 @@ def main():
     df_paisos_anys = generar_df_resum(input_path)
     generar_diagrama_gantt(df_paisos_anys)
     return None
+
 
 main()
